@@ -9,7 +9,7 @@ Recognize human emotions from speech audio using Deep CNN + MFCC features.
 ## 📊 Results
 
 ### Training & Evaluation Dashboard
-![Results](task2_results.png)
+![Results](Results.png)
 
 ---
 
